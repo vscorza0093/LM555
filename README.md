@@ -14,7 +14,7 @@ Game better fited on 1920x1080
 Hope you enjoy!
 
 
-<h1>**~IC 555 game~**</h1>
+<h1>**~LM 555 game~**</h1>
 
 Art, Code & Game Design - Vinicius Scorza
 
