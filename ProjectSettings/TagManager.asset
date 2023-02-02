@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Capacitor
+  - Resistor
+  - LED
+  - ----------TAGS RESISTOR----------
+  - R1
+  - R2
+  - RLED
+  - ----------TAGS CAPACITOR---------
+  - C1
+  - ------------TAGS MENUS-------------
+  - Menu1
+  - Menu2
+  - MenuResistor1
+  - MenuResistor2
+  - MenuCapacitor
+  - -------------TAGS SLOTS-------------
+  - slotCI
+  - slotCapacitor
+  - slotLED
+  - slotRLED
+  - slotR1
+  - slotR2
+  - -------------TAGS LM555--------------
+  - LM555
+  - -------------OtherTags-----------
+  - emptyObject
+  - light1
+  - light2
+  - light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
