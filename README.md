@@ -1,4 +1,10 @@
 # <h1>LM555</h1>
+
+<strong> 
+Unfortunaly this project is not working, ive lost the final version :facepalm: 
+But you can still play at https://vscza.itch.io/555
+</strong>
+
 Educational game developed for t Game Jam using Unity 3D as Game Engine and Autodesk Maya to build 3d models
 
 LM 555 is a Integrated Circuit that act like a time controler, literaly a clock, that can be evolved even to be a computer.
